@@ -23,7 +23,7 @@ export const data = [
   {
     date: "2024",
     title: "Portfolio",
-    link: "",
+    link: "https://tammarnoon.github.io/Portfolio/",
     material: [
       { type: faGithub, link: "https://github.com/Tammarnoon/Portfolio" },
     ],
