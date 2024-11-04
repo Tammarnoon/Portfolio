@@ -25,7 +25,7 @@ export const data = [
     title: "Portfolio",
     link: "",
     material: [
-      { type: faGithub, link: "https://github.com/Tammarnoon/AQS_InvenManage" },
+      { type: faGithub, link: "https://github.com/Tammarnoon/Portfolio" },
     ],
     description: [
       "'This is a simple portfolio website project created to showcase my skills, talents, and experience.'",
