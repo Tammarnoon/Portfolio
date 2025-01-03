@@ -68,13 +68,6 @@ const About = ({onInitial,title}) => {
             />
             <span className="mt-2 text-sm font-semibold">Node.js</span>
           </div>
-          <div className="flex flex-col items-center w-24">
-            <FontAwesomeIcon
-              icon={faNodeJs}
-              className="text-5xl text-green-600"
-            />
-            <span className="mt-2 text-sm font-semibold">Express.js</span>
-          </div>
 
           <div className="flex flex-col items-center w-24">
             <FontAwesomeIcon
@@ -96,13 +89,6 @@ const About = ({onInitial,title}) => {
               className="text-5xl text-teal-500"
             />
             <span className="mt-2 text-sm font-semibold">Tailwind CSS</span>
-          </div>
-          <div className="flex flex-col items-center w-24">
-            <FontAwesomeIcon
-              icon={faBootstrap}
-              className="text-5xl text-purple-500"
-            />
-            <span className="mt-2 text-sm font-semibold">Bootstrap 5</span>
           </div>
         </div>
       </div>
